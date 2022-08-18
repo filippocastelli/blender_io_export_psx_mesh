@@ -5,9 +5,11 @@
 This Blender plugin is to be used in conjunction with the [3dcam PSX engine](https://github.com/ABelliqueux/3dcam-headers).  
 It allows exporting a gouraud shaded, UV textured Blender scene to a format compatible with the aforementionned engine.  
 
-The goal is to make it compatible with newer Blender versions (3.2.0)
+
 ![3d scene](https://wiki.arthus.net/assets/demo.gif)
 
+
+The goal is to make it compatible with newer Blender versions (3.2.0)
 ## Documentation
 
 [Check the Wiki](https://github.com/ABelliqueux/blender_io_export_psx_mesh/wiki) for in-depth informations.
